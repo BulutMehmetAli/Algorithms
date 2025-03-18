@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1741859981 source:c:\users\bulut\onedrive\masaüstü\dsa\algorithms\binarysearchalgorithm\main.cpp
+	<iostream>
+	<vector>
+	<algorithm>
+
